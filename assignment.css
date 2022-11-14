@@ -1,0 +1,26 @@
+.first h1{
+    font-size: 18px;
+}
+
+.first p{
+    font-size: 14px;
+    color: green;
+}
+
+.second h1{
+    font-size: 18px;
+}
+
+.second p{
+    font-size: 14px;
+    color: red;
+}
+
+.third h1{
+    font-size: 18px;
+}
+
+.third p{
+    font-size: 14px;
+    color: blue;
+}
